@@ -1,0 +1,10 @@
+# Python virtual environment
+backend/.venv/
+backend/venv/
+
+# Environment variables / secrets
+backend/.env
+
+backend/__pycache__/
+backend/.pytest_cache/
+backend/*.pyc
